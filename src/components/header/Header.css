@@ -1,0 +1,17 @@
+.Header {
+    padding-top: 50px;
+}
+
+.Logo p {
+    font-size: 40px;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: #333;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.Logo a {
+    text-decoration: none;
+}
